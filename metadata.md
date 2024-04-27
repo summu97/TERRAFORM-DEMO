@@ -23,8 +23,8 @@ main.tf
 ==========
 VARIABLE FILE:
 ==========
-variable.tf
-.tfvars
+* variable.tf
+* .tfvars
 
 ==========
 LIFE CYCLE:
