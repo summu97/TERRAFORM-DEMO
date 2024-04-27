@@ -65,10 +65,10 @@ terraform {
 TERRAFORM WORKSPACE:
 ==========
 
-terraform workspace new dev
-terraform workspace list
-terraform workspace show
-terraform workspace select dev
+* terraform workspace new dev
+* terraform workspace list
+* terraform workspace show
+* terraform workspace select dev
 
 
 
