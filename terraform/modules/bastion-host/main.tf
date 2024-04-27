@@ -1,9 +1,9 @@
 module "networking" {
-source = "/home/sumo1998sumanth/terraform/modules/networking"
+source = "/home/sumo1998sumanth/TERRAFORM-DEMO/terraform/modules/networking"
 }
 
 module "service-account" {
-source = "/home/sumo1998sumanth/terraform/modules/service-account"
+source = "/home/sumo1998sumanth/TERRAFORM-DEMO/terraform/modules/service-account"
 }
 
 resource "google_compute_instance" "bastion" {
