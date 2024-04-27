@@ -21,6 +21,12 @@ CONFIGURATION FILE:
 main.tf
 
 ==========
+VARIABLE FILE:
+==========
+variable.tf
+.tfvars
+
+==========
 LIFE CYCLE:
 ==========
 * terraform init
