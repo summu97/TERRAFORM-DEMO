@@ -21,7 +21,7 @@ CONFIGURATION FILE:
 main.tf
 
 ==========
-VARIABLE FILE:
+VARIABLE:
 ==========
 * variable block
 * variable.tf
