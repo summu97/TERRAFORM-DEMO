@@ -23,6 +23,7 @@ main.tf
 ==========
 VARIABLE FILE:
 ==========
+* variable block
 * variable.tf
 * .tfvars
 
@@ -68,6 +69,12 @@ TERRAFORM WORKSPACE:
 * terraform workspace list
 * terraform workspace show
 * terraform workspace select dev
+
+==========
+TERRAFORM GRAPH:
+==========
+
+* Command: terraform graph
 
 ==========
 INSTALLATION:
