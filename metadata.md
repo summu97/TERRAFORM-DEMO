@@ -77,6 +77,20 @@ TERRAFORM GRAPH:
 * Command: terraform graph
 
 ==========
+TAINT:
+==========
+
+* terraform taint RESOURCE_NAME
+* terraform apply --auto-approve
+* terraform untaint --auto-approve
+
+==========
+ALIAS & PROVIDER:
+==========
+
+* To link provider block with resource block.
+
+==========
 INSTALLATION:
 ==========
 wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
